@@ -5,3 +5,5 @@ This respository contains code examples for the online course [Apache Maven: Beg
 # Project Lombok Maven Example
 
 Example project using Maven with [Project Lombok](https://projectlombok.org/)
+
+Generate classes with project lombok and maven
